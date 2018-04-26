@@ -1,0 +1,7 @@
+README.md
+fastica.py
+setup.py
+fastica.egg-info/PKG-INFO
+fastica.egg-info/SOURCES.txt
+fastica.egg-info/dependency_links.txt
+fastica.egg-info/top_level.txt
